@@ -1,0 +1,16 @@
+#lists input {
+    width: 80%;
+    padding: 18.5px 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-bottom: 1em;
+}
+
+.remove {
+    margin-left: 5px
+}
+
+.add {
+    margin-bottom: 10px;
+}
